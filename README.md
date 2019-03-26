@@ -1,4 +1,4 @@
-# Generate TV scripts
+# Generate TV Scripts
 Build a Recurrent Neural Network to generate new episodes of your favorite TV show.
 
 ```
