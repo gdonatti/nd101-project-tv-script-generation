@@ -1,4 +1,7 @@
-# Generate TV Scripts
+# Udacity Deep Learning Nanodegree
+
+## Generate TV Scripts
+
 Build a Recurrent Neural Network to generate new episodes of your favorite TV show.
 
 ```
